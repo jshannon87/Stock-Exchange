@@ -2,7 +2,7 @@
 
 Run the SuperSimpleStockExchange.bat file located in the StockExchange folder to start the application.
 
-The program meets the requirements specified in the file "Super Simple Stocks Sept 15.pdf"
+The program meets the requirements specified in the file "New Super Simple Stocks Sept 15.pdf"
 
 The assumptions made when writing this application were:
 
